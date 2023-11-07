@@ -1,2 +1,2 @@
-public class TipoMaldicao{
+public interface TipoMaldicao{
 }
